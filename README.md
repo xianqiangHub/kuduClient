@@ -1,0 +1,2 @@
+# kuduClient
+kudu没有交互式窗口，需要kuduPlus或者impala有时不方便使用spark读取kudu
